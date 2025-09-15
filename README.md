@@ -20,8 +20,8 @@ The system breaks down complex drawings into simple, sequential steps using **nu
   - **Learning Mode**: Connect the dots in order.
   - **Free Drawing Mode**: Draw freely using guide points as reference.
   - **Coloring Mode**: Color pre-outlined images with transparent backgrounds.
-- 🔤 **Multiple Difficulty Levels**: Easy, Medium, and Hard—adapted to different age groups and skill levels.
-- 👨‍🏫 **Admin Dashboard**: A management panel for supervisors to add, edit, or remove images and categories easily.
+- 🔤 **Multiple Difficulty Levels**: Easy, Medium, and Hard.
+- 👨‍🏫 **Admin Dashboard**: A management panel for supervisors to add, or remove images and categories easily.
 - ⚙️ **Smart Image Processing Pipeline** using:
   - `Canny Edge Detection`
   - `Contour Extraction` (via OpenCV)
