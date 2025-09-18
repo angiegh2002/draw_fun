@@ -32,7 +32,7 @@ The system breaks down complex drawings into simple, sequential steps using **nu
 
 | Layer | Technology |
 |------|------------|
-| **User App (Frontend)** | Flutter (Android/iOS) |
+| **User App (Frontend)** | Flutter (Android) |
 | **Admin Panel** | Streamlit (Web Dashboard) |
 | **Backend Processing** | Python + OpenCV |
 | **Image Processing** | Grayscale conversion, edge detection, contour analysis |
